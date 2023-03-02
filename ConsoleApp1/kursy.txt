@@ -1,0 +1,27 @@
+Kurs przeliczany na złotówki
+
+bat (Tajlandia) Kurs: 0,1266
+dolar amerykański Kurs: 4,4002
+dolar australijski Kurs: 2,9638
+dolar Hongkongu Kurs: 0,5606
+dolar kanadyjski Kurs: 3,2329
+dolar nowozelandzki Kurs: 2,7380
+dolar singapurski Kurs: 3,2671
+euro Kurs: 4,6750
+forint (Węgry) Kurs: 1,2503
+frank szwajcarski Kurs: 4,6743
+funt szterling Kurs: 5,2676
+hrywna (Ukraina) *) Kurs: 0,1258
+jen (Japonia) Kurs: 3,2239
+korona czeska Kurs: 0,1993
+korona duńska Kurs: 0,6282
+korona islandzka Kurs: 3,0858
+korona norweska Kurs: 0,4221
+korona szwedzka Kurs: 0,4197
+lej rumuński Kurs: 0,9499
+lew (Bułgaria) Kurs: 2,3903
+lira turecka Kurs: 0,2330
+nowy izraelski szekel Kurs: 1,2076
+peso chilijskie Kurs: 0,5428
+peso filipińskie Kurs: 0,0800
+peso meksykańskie Kurs: 0,2430
